@@ -1,0 +1,1 @@
+tenta transmitir significado através das palavras e as tags em uma página. tente pensar desta maneira: o conteúdo da página são as palavras que você fala. A marcação HTML fornece a estrutura, a entonação, as pausas e até mesmo a aparência do seu rosto. Basicamente, as marcações são a metade da sua mensagem.
